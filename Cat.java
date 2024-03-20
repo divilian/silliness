@@ -16,6 +16,11 @@ public class Cat {
         }
     }
 
+
+
+
+
+
     void claw(int hpDamage) {
 
     }
