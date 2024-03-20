@@ -1,8 +1,9 @@
 
-class Cat {
+public class Cat {
 
     private int numWhiskers;
     private String name;
+    private String breed;
 
     void meow() {
         System.out.println("Meow!!!");
