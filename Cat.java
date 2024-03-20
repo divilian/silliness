@@ -5,8 +5,9 @@ public class Cat {
     private String name;
     private String breed;
 
-    void meow() {
-        System.out.println("Meow!!!");
-        System.out.println("Meow!!!");
+    void meow(int numMeows) {
+        for (int i=0; i<numMeows; i++) {
+            System.out.println("Meow!!!");
+        }
     }
 }
