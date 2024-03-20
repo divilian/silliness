@@ -12,4 +12,8 @@ public class Cat {
             System.out.println("Meow!!!");
         }
     }
+
+    void claw(int hpDamage) {
+
+    }
 }
