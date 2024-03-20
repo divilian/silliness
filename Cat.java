@@ -1,6 +1,9 @@
 
 public class Cat {
 
+    /*
+        Inst vars for cat.
+    */
     private int numWhiskers;
     private String name;
     private String breed;
