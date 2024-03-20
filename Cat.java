@@ -15,4 +15,8 @@ public class Cat {
             System.out.println("Meow!!!");
         }
     }
+
+    void coughUp(String hairball) {
+
+    }
 }
