@@ -6,4 +6,5 @@ public class Mouse {
     void squeak() {
 
     }
+    private String name;
 }
