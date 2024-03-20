@@ -1,5 +1,5 @@
 
 public class Mouse {
-    private int weight;
+    private int weightInGrams;
     private String name;
 }
